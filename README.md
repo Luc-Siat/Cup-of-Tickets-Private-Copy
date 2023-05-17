@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # cup-of-Ticket
 
 Frontend URL: 
@@ -14,3 +15,6 @@ password : Password123
 
 
 readme to be continued
+=======
+# Cup-of-Tickets-Private-Copy
+>>>>>>> 59ad9dba4eb6ac73d28afb80367da6755fb24b91
